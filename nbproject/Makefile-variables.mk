@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin-Windows
-CND_ARTIFACT_NAME_Debug=ese050-basigestionelistaconcatenatainteri
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/ese050-basigestionelistaconcatenatainteri
+CND_ARTIFACT_NAME_Debug=ese050
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin-Windows/ese050
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin-Windows/package
-CND_PACKAGE_NAME_Debug=ese050-basigestionelistaconcatenatainteri.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/ese050-basigestionelistaconcatenatainteri.tar
+CND_PACKAGE_NAME_Debug=ese050.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin-Windows/package/ese050.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin-Windows
-CND_ARTIFACT_NAME_Release=ese050-basigestionelistaconcatenatainteri
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/ese050-basigestionelistaconcatenatainteri
+CND_ARTIFACT_NAME_Release=ese050
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin-Windows/ese050
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin-Windows/package
-CND_PACKAGE_NAME_Release=ese050-basigestionelistaconcatenatainteri.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/ese050-basigestionelistaconcatenatainteri.tar
+CND_PACKAGE_NAME_Release=ese050.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin-Windows/package/ese050.tar
 #
 # include compiler specific variables
 #
